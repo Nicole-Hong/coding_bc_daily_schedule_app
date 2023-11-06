@@ -14,7 +14,7 @@ The objective of this module challenge is to create an interactive program that 
 
 ## Website Deployed
 
-* Random Password Generator URL: https://nicole-hong.github.io/coding_bc_webAPI_CodeQuiz/ 
+* Random Password Generator URL: https://nicole-hong.github.io/coding_bc_daily_schedule_app/ 
 
 
 ## Application Demo - Screenshots
