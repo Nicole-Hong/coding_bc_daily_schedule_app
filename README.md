@@ -20,14 +20,17 @@ The objective of this module challenge is to create an interactive program that 
 ## Application Demo - Screenshots
 
 1. Open the Daily Schedule URL provided above.
-2. Layout of the User Interface
-![UI_schedule]
+2. Layout of the User Interface:
+![UI_schedule](https://github.com/Nicole-Hong/coding_bc_crispy_octo_meme/blob/main/image/UI_schedule.png)
 
-![event]
+>   a. Record the event
+![event](https://github.com/Nicole-Hong/coding_bc_crispy_octo_meme/blob/main/image/event.png)
 
-![change]
+>   b. Revise the event recorded
+![change](https://github.com/Nicole-Hong/coding_bc_crispy_octo_meme/blob/main/image/change.png)
 
-![new]
+>   c. Record a new event and save
+![new](https://github.com/Nicole-Hong/coding_bc_crispy_octo_meme/blob/main/image/new.png)
 
 
 ## Reference Link:
