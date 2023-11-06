@@ -1,4 +1,4 @@
-# Module 5 - Work Day Scheduler Starter Code
+# Module 5 - Work Day Scheduler App
 
 ## About This Challenge
 
