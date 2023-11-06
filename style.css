@@ -1,6 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  line-height: 1;
 }
 
 textarea {
@@ -11,6 +12,24 @@ textarea {
   border-left: 1px solid black;
   padding: 10px;
 }
+ 
+/* ---- addition ---- */
+.meschedule {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+  margin-bottom: 2rem;
+  padding: 2rem 1rem;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+/* -------------------*/
 
 .description {
   white-space: pre-wrap;
@@ -18,10 +37,13 @@ textarea {
 
 .time-block {
   border-radius: 15px;
+  text-align: center;
 }
 
 .row {
   border-top: 1px solid white;
+  height: 80px;
+  white-space: pre-wrap;
 }
 
 .hour {
