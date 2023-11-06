@@ -35,4 +35,5 @@ The objective of this module challenge is to create an interactive program that 
 
 ## Reference Link:
 * Starter Code: https://github.com/coding-boot-camp/crispy-octo-meme 
-* Javascript Library: https://cdnjs.com/libraries 
+* Javascript Library: https://cdnjs.com/libraries
+* jQuery: https://api.jquery.com/ 
